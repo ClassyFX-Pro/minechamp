@@ -67,7 +67,6 @@ DIFFICULTY = "normal"
 GAMEMODE = "survival"
 PVP = "true"
 ENABLE_HIBERNATE = "true"
-IDLE_TIMEOUT = "10"
 
 [services.server.variables.MOTD]
 description = "Mensaje del día del servidor"
